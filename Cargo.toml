@@ -1,0 +1,10 @@
+[package]
+name = "rift"
+version = "0.3.0"
+edition = "2021"
+description = "Runtime Integrity Forensics Toolkit — non-weaponized PHP evidence triage"
+license = "MIT"
+
+[[bin]]
+name = "rift"
+path = "src/main.rs"
