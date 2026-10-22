@@ -1,0 +1,2 @@
+SYNTHETIC FIXTURE - NOT A REAL PHP2SHELL REPRODUCTION
+==100==ERROR: AddressSanitizer: heap-use-after-free on address 0x000000000000
